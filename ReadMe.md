@@ -12,4 +12,5 @@ dev     ->   o---o---1---o---o---o
 master  -> o---o---o---2---o---o---o---o
 ```
 
-For more information, follow [this link](http://xkcd.com/1597/).
+For more information, follow [this link](http://xkcd.com/1597/) and [this link](http://explainxkcd.com/wiki/index.php/1597:_Git).
+Whatever you do, don't do [this](https://xkcd.com/1296/).
