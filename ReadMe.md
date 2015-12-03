@@ -11,3 +11,5 @@ dev     ->   o---o---1---o---o---o
             /     \           \
 master  -> o---o---o---2---o---o---o---o
 ```
+
+For more information, follow [this link](http://xkcd.com/1597/).
