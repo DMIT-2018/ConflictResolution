@@ -1,4 +1,4 @@
-# Conflict Resolution
+# Conflict Resolution - Draft
 
 This repository is an example of how to deal with merge conflicts.
 
